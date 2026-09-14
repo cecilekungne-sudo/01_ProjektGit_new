@@ -13,3 +13,4 @@ Push bedeutet: Schicke deine lokalen Änderungen zu GitHub. Typischer Ablauf: Ä
 Commit erstellen: git commit -m "Beschreibung der Änderung". 
 Zu GitHub hochladen:  git push
 
+....
